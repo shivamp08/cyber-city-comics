@@ -20,6 +20,11 @@ To showcase my full-stack web development skills, via the MERN stack.
 - **Comic Display**: one comic strip displayed per page.
 - **Comic Info**: information like date created, view count, and number are all displayed on top of the comic.
 - **Navigation Field**: navigate to a specific comic strip by including a comic # in the URL ("https://cyber-cty-comics.herokuapp.com/614") or by using the search bar in the corner.
+- **Parsed Transcript**: transcript from API is parsed into a more readable format & displayed under the comic.
+
+- **Responsive Design**: created a responsive design using vanilla CSS to accommodate devices with various screen sizes.
+- **Random Navigation**: button that navigates to a random comic strip.
+- **View Count**: Each comic page has a view count that displays the amount of times that specific comic strip has viewed on my site. Only counts **unique** visitors, so refreshing the page will not increase the view count.
 
 ## Built With
 
