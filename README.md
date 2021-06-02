@@ -19,7 +19,7 @@ To showcase my full-stack web development skills, via the MERN stack.
 - **Navigation Buttons**: buttons to navigate to the previous and next comic strip.
 - **Comic Display**: one comic strip displayed per page.
 - **Comic Info**: information like date created, view count, and number are all displayed on top of the comic.
-- **Specific Navigation**: navigate to a specific comic strip by including a comic # in the URL ("https://cyber-cty-comics.herokuapp.com/614") or by using the search bar in the corner.
+- **Specific Navigation**: navigate to a specific comic strip by including a comic # in the URL (https://cyber-cty-comics.herokuapp.com/614) or by using the search bar in the corner.
 - **Parsed Transcript**: transcript from API is parsed into a more readable format & displayed under the comic.
 
 ## Extra Features
@@ -39,7 +39,7 @@ This project was built using the MERN stack, which includes:
 - [Nodejs](https://nodejs.org/en/)
 
 **React** was used for Front-End Development (client-side).\
-**Express.js**,**MongoDB**, and **Nodejs** were used to implement the RESTful API (server-side).\
+**Express.js**,**MongoDB**, and **Nodejs** were used to implement the RESTful API (server-side).
 
 ## Installation
 
@@ -55,6 +55,8 @@ $ npm start
 
 ```
 
-## Screenshot
+## Screenshots
 
-![dashboard](client/screenshots/dashboard.png)
+![Comic1](client/screenshots/comic1.png)
+![Comic2](client/screenshots/comic2.png)
+![transcript](client/screenshots/transcript.png)
