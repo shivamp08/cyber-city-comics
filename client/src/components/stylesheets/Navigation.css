@@ -1,0 +1,30 @@
+.navigation {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  align-self: center;
+}
+
+.btn {
+  background-color: #45a640;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+button.btn:disabled {
+  opacity: 0.5;
+}
+
+.btn:hover {
+  background-color: #388734;
+}
