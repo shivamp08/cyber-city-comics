@@ -24,7 +24,7 @@ To showcase my full-stack web development skills, via the MERN stack.
 
 ## Extra Features
 
-- **Responsive Design**: created a responsive design using vanilla CSS to accommodate devices with various screen sizes.
+- **Responsive Design**: created using vanilla CSS to accommodate devices with various screen sizes.
 - **Random Navigation**: button that navigates to a random comic strip.
 - **View Count**: Each comic page has a view count that displays the amount of times that specific comic strip has viewed on my site. Only counts **unique** visitors, so refreshing the page will not increase the view count.
 
