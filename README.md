@@ -57,6 +57,6 @@ $ npm start
 
 ## Screenshots
 
-![Comic1](client/src/images/comic1.png)
-![Comic2](client/src/images/comic2.png)
-![transcript](client/src/images/transcript.png)
+![Comic1](client/src/images/comic2469.png)
+![Comic2](client/src/images/comic614.png)
+![transcript](client/src/images/comic614transcript.png)
